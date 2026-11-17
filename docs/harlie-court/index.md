@@ -6,7 +6,7 @@ _A placeholder page for Harlie Court. Add address details, key contacts, and res
 - 1-30 Harlie Court, Adenmore Road, London, SE6 4ED
 
 ## Residents' WhatsApp
-- Add the invite link to the Harlie Court residents' WhatsApp group.
+- [Add the invite link to the Harlie Court residents' WhatsApp group.](https://chat.whatsapp.com/C35uamo759HHAZFeACfzdN?s=cl&p=i&iam=2)
 
 ## Contacts
 - Managing agent: Firstport (estate and building management)
